@@ -2,7 +2,8 @@
 #include "6-abs.c"
 #include <stdio.h>
 /**
- * print_alphabet - function to print alphabet
+ * print_to_98 - prints to 98
+ * @n: integer to start at
  *
  */
 void print_to_98(int n)
