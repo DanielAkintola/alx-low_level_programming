@@ -1,13 +1,10 @@
 #include "main.h"
 #include "6-abs.c"
 #include <stdio.h>
-
 /**
- * print_to_98 - prints to 98
- * @n: integer to start at
+ * print_alphabet - function to print alphabet
+ *
  */
-
-
 void print_to_98(int n)
 {
 	int i;
@@ -34,4 +31,4 @@ void print_to_98(int n)
 		}
 	}
 	printf("\n");
-}	
+}
